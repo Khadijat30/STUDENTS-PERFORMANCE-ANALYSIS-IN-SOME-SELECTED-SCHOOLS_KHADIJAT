@@ -1,0 +1,35 @@
+STUDENTS PERFORMANCE ANALYSIS IN SOME SELECTED PUBLIC AND PRIVATE SCHOOLS IN LAGOS STATE FOR THE YEAR 2023
+
+Introduction
+Examination is an integral part of the education system, which has certain objectives .Examinations are useful as it measures a student's progress towards predetermined objectives. Examination is a process for testing the abilities or achievement of the student in any area of academic program. So there are also some factors like Parental influence, peer group, family income, and students' studied hours which create obstacles to measure the real performance of the student. This study was designed to measure the factors affecting student's performance in examinations at Secondary School level. Every educational system consists of an examination system through which the qualities and abilities of the students are assessed by giving them grades and position.
+
+The ultimate objectives of the examination is to measure the performance level of the students and without this, we cannot know what the students attain from their educational system.
+
+Data Overview
+The analysis focuses on the following columns:
+Hours Studied: Number of hours spend studying per week
+Attendnce: Percentage of classes attended
+Parental involvement: Level of parental involvement in te student's education
+Access to Resources: Availability of education resources
+Extracurricular Activities: Participation in extra curricular activities
+Sleep hours: Average number of hours of sleep per night
+Previous Scores: Scores from prevoius exam
+Gender: Gender of the student (Male, Female)
+Exam Score: Final exam score
+Objectives
+To determine whether parental influence has effect on student performance in their sttudies
+To know if peer group have any negative or positive inflence in student performance
+To identify gender who perform well in their studies
+To know best average sleep hours for students
+
+Data Cleaning
+After cleaning of the dataset by removing blank space, remove duplicate and converting the table to standard excel table. 
+
+Key insights;
+1️⃣ Top parental influence: Medium
+2️⃣ Best sleep hour: 7 hours 
+3️⃣ Peer influence: Positive 
+4️⃣ Best perform gender: Female 
+5️⃣ Family income: Medium 
+6️⃣ Distance from Home: Nearness to home 
+Recommendation for Parents, Students, and Schools;
